@@ -1,2 +1,2 @@
-# Responsive_Portfolio_10-05-23
-Follow this beginner's guide to create a responsive portfolio website using HTML and CSS. With no prior coding experience required, this tutorial will teach you how to create a website that looks great on any device.
+MY PORTFOLIO
+A GitHub portfolio is a public showcase of your coding projects and skills, helping you demonstrate your expertise to employers and collaborators. It typically includes your best repositories, project descriptions, and contributions to open source. You can create a portfolio using GitHub Pages or a profile README to highlight your work. Keeping it organized, updated, and visually appealing boosts your professional presence. This portfolio acts as a dynamic digital resume, making you more visible in the tech community.
